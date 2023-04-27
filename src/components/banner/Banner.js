@@ -42,7 +42,7 @@ const Banner = () => {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto City
+            CoinSight
           </Typography>
           <Typography
             variant="subtitle2"

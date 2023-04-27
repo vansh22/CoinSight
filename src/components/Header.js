@@ -45,7 +45,7 @@ const Header = () => {
               className={classes.title}
               variant="h6"
             >
-              Crypto City
+              CoinSight
             </Typography>
             <Select
               variant="outlined"
